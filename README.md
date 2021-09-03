@@ -1,5 +1,5 @@
-# Lost and Found from Max J. Hilgenberg
 ## Thank you so much for finding my item.
+>> ![GIf](./img/thankyou.gif)
 
 I would really appreciate it if you could contact me as soon as possible!
 
@@ -15,4 +15,4 @@ I would really appreciate it if you could contact me as soon as possible!
 
 If you however choose to run away with my things, I have only one thing to say:
 
-![Gif1](./img/liam-neeson-i-will-find-you.gif)
+>> ![Gif1](./img/liam-neeson-i-will-find-you.gif)
