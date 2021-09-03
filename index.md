@@ -13,8 +13,8 @@ I would really appreciate it if you could contact me as soon as possible!
 
 If you however choose to run away with my things, I have only one thing to say:
 
-![Gif1](img/liam-neeson-i-will-find-you.gif)
-![Test](img/iu.png)
+![Gif1](./img/liam-neeson-i-will-find-you.gif)
+![Test](./img/iu.png)
 
 
 
