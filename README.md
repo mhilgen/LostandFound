@@ -4,7 +4,7 @@
 I would really appreciate it if you could contact me as soon as possible!
 ###***my direct Email: <max.hilgenberg@gmx.net>***
 ### USA Phone Number:
->> +1 (864)329-6925(+1(864)329-6925)
+>> +1 (864)329-6925[+1(864)329-6925]
 
 ### Europe Phone Number: 
  >> ***my Phonenumber: +49 157 36126028***<br><br>
