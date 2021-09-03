@@ -2,7 +2,7 @@
 >> ![GIf](./img/thankyou.gif)
 
 I would really appreciate it if you could contact me as soon as possible!
-###***my direct Email: <max.hilgenberg@gmx.net>***
+### ***my direct Email: <max.hilgenberg@gmx.net>***
 ### USA Phone Number:
 >> *+1 (864)329-6925*
 
